@@ -1,6 +1,6 @@
 # Análisis del habla imaginada en el espacio de características por medio de Transformers.
 
-Este repositorio contiene el código y materiales de mi **Trabajo Terminal** sobre clasificación de **habla imaginada** a partir de señales EEG.  
+Este repositorio contiene el código y materiales acerca del **Trabajo Terminal** sobre clasificación de **habla imaginada** a partir de señales EEG.  
 El pipeline completo incluye:
 
 - Carga y exploración de un dataset de EEG de habla imaginada.
